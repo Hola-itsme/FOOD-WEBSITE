@@ -32,7 +32,7 @@ html{
  
 /* navigation bar: logo and image*/
  #logoo{
-   margin: 10px 25px;
+   margin: 10px 34px;
 }
 #logoo img{
     height: 70px;
@@ -54,16 +54,16 @@ html{
     
     list-style: none;
     font-size: 1.3rem;
-    padding: 10px;
-    margin: 10px;
+    /* padding: 10px;
+    margin: 10px; */
    
 }
 #navbar ul li a{
     color: white;
-   font-size: 20px;
+   /* font-size: 20px; */
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    display: block;
-   padding: 3px 6px;
+   padding: 3px 22px;
    text-decoration: none;
   
   border-radius: 30px;
@@ -86,7 +86,7 @@ background-color: white;
     justify-content: center;
     align-items: center;
     color: white;
-    margin: 2px;
+    /* margin: 2px; */
     
 }
 
@@ -98,7 +98,7 @@ background-color: white;
     top: 0px;
     left: 0px;
     width:  100%;
-    z-index: -25;
+    z-index: -1;
     opacity: 0.89;
    
 }
@@ -131,7 +131,7 @@ background-color: white;
 }
 #services .box img{
 
-    height: 140px;
+    height: 160px;
     margin: auto;
     display: block;
 }
@@ -164,11 +164,11 @@ background-color: white;
     align-items: center;
 }
 .client-item{
-    padding: 35px;
+    padding: 34px;
    
 }
 #clients img{
-height: 125px;
+height: 124px;
     
 }
 /*contact section*/
@@ -197,7 +197,7 @@ padding-bottom: 34px;
 #contact-box textarea{
     width:100% ;
     padding: 0.5rem;
-    border-radius: 10px;
+    border-radius: 9px;
     font-size: 1.1rem;
 }
 #contact-box form{
@@ -227,7 +227,7 @@ footer{
 
 .h-secondary{
 font-size: 2.3rem;
-padding: 5px;
+padding: 12px;
 font-family: 'Bree serif',serif;
 
 }
@@ -237,7 +237,7 @@ font-family: 'Bree serif',serif;
     background-color: palegreen;
     color:black ;
     margin: 17px ;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     border-radius: 10px;
     cursor: pointer;
     

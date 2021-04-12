@@ -121,8 +121,8 @@ background-color: white;
 }
 #services .box{
     border: 2px solid brown;
-   padding: 35px;
-   margin: 3px 55px;
+   padding: 10px;
+   margin: 3px 30px;
    border-radius: 28px;
    background:#f2f2f2;
    margin-bottom: 20px;
@@ -131,7 +131,7 @@ background-color: white;
 }
 #services .box img{
 
-    height: 160px;
+    height: 150px;
     margin: auto;
     display: block;
 }
